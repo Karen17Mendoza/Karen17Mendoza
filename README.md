@@ -1,4 +1,4 @@
-  # Hi there I'm Karen 👋
+<em> # Hi there I'm Karen 👋 </em>
 
 # 💫 About Me:
 Student at Bootcamp Web Development and bachelor of Electronic Engineering, 
