@@ -1,7 +1,7 @@
 <em> # Hi there I'm Karen 👋 </em>
 
 # 💫 About Me:
-Graduated at Bootcamp Web Development and bachelor of Electronic Engineering, 
+Graduated at Bootcamp Web Development and Electronic Engineering, 
 I combine solid knowledge in electronics with advanced skills in web development. I am fluent in HTML, CSS, and JavaScript, along with frameworks such as React and Angular. Passionate about technological innovation, I stand out for my ability to solve complex problems and my commitment to the development of creative and efficient solutions.
 
 # 🌟 Highlights:
